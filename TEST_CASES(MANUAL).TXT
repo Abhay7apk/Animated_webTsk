@@ -1,0 +1,91 @@
+=========================================
+TEST CASE 1: VERIFY NAVBAR FUNCTIONALITY
+=========================================
+**Scenario Description:** Checking if the navigation bar functions as expected.
+
+**Pre-conditions:** The webpage is loaded successfully.
+
+**Steps to Execute:**
+1. Open the webpage.
+2. Verify the presence of the "Home," "About," "Blogs," "Portfolio," and "Contact" links in the navbar.
+3. Click on each link.
+4. Observe if the corresponding content is displayed.
+
+**Actual Result:** The navbar links should navigate to the respective sections of the webpage.
+
+**Status Points:**
+- Pass: All links navigate to the correct sections.
+- Fail: Any link does not work as expected.
+
+=============================================
+TEST CASE 2: VERIFY BACKGROUND IMAGE AND OVERLAY
+=============================================
+**Scenario Description:** Ensuring the background image and overlay are displayed correctly.
+
+**Pre-conditions:** The webpage is loaded successfully.
+
+**Steps to Execute:**
+1. Open the webpage.
+2. Verify the background image covers the entire viewport.
+3. Check if the translucent overlay is applied to the background image.
+
+**Actual Result:** The background image covers the entire viewport with a translucent overlay.
+
+**Status Points:**
+- Pass: Background image and overlay display correctly.
+- Fail: Background image or overlay is not displayed as expected.
+
+=========================================
+TEST CASE 3: VERIFY TYPING ANIMATION
+=========================================
+**Scenario Description:** Checking if the typing animation appears and animates correctly.
+
+**Pre-conditions:** The webpage is loaded successfully.
+
+**Steps to Execute:**
+1. Open the webpage.
+2. Observe the "Travel is not an option but a need!" text at the bottom left.
+3. Ensure the text is animated as if being typed.
+
+**Actual Result:** The typing animation displays the text gradually as if being typed.
+
+**Status Points:**
+- Pass: Typing animation works correctly.
+- Fail: Typing animation does not display or animate properly.
+
+===========================================
+TEST CASE 4: VERIFY BUTTON CLICK FUNCTIONALITY
+===========================================
+**Scenario Description:** Ensuring the button click triggers the alert popup.
+
+**Pre-conditions:** The webpage is loaded successfully.
+
+**Steps to Execute:**
+1. Open the webpage.
+2. Locate the button labeled "Click here."
+3. Click the button.
+
+**Actual Result:** An alert with the message "Hello, World!" should appear.
+
+**Status Points:**
+- Pass: Clicking the button displays the alert.
+- Fail: The alert does not appear after clicking the button.
+
+==============================================
+TEST CASE 5: VERIFY POPUP CLOSE FUNCTIONALITY
+==============================================
+**Scenario Description:** Checking if the close button in the alert popup works.
+
+**Pre-conditions:** The alert popup is displayed.
+
+**Steps to Execute:**
+1. Open the webpage.
+2. Click the "Click here" button.
+3. Observe the appearance of the alert popup.
+4. Click the "Close" button inside the popup.
+
+**Actual Result:** The alert popup should close after clicking the "Close" button.
+
+**Status Points:**
+- Pass: The popup closes successfully.
+- Fail: The popup does not close after clicking the "Close" button.
