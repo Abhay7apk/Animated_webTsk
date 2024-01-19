@@ -65,7 +65,7 @@ TEST CASE 4: VERIFY BUTTON CLICK FUNCTIONALITY
 2. Locate the button labeled "Click here."
 3. Click the button.
 
-**Actual Result:** An alert with the message "Hello, World!" should appear.
+**Actual Result:** An alert popup with the message "Hello, World!" should appear.
 
 **Status Points:**
 - Pass: Clicking the button displays the alert.
